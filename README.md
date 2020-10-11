@@ -59,4 +59,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockey5520" alt="rockey5520" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rockey5520" target="blank"><img src="https://img.shields.io/twitter/follow/rockey5520?logo=twitter&style=for-the-badge" alt="rockey5520" /></a> </p>
