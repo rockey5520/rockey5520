@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">I'm a Back End engineer who loves discovering computers and interacting with them without being dogmatic about a specific programming language. My main interests lies primarily with Rule Engines extending intersts towards Golang, Java, AWS and GCP</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockey5520&label=Profile%20views&color=0e75b6&style=flat" alt="rockey5520" /> </p>
-
 <p align="left"> <a href="https://twitter.com/rockey5520" target="blank"><img src="https://img.shields.io/twitter/follow/rockey5520?logo=twitter&style=for-the-badge" alt="rockey5520" /></a> </p>
 
 - 🌱 I’m currently learning **Go, Reactive programming, Distributed systems**
