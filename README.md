@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Oct 12 10:12 <a href='https://twitter.com/rockey5520/status/1315596094848598022'>@rockey5520: Thanks for following, Atomikos Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 12 09:08 <a href='https://twitter.com/rockey5520/status/1315580178949648389'>@rockey5520: I was searching about using back pressure in software development b...</a></li>
-<li>💫 Oct 11 18:15 <a href='https://twitter.com/rockey5520/status/1315355458778148864'>@rockey5520: Sorting out all links saved to read later in @Pocket and found 90% ...</a></li>
-<li>🔥 Oct 11 18:12 <a href='https://twitter.com/rockey5520/status/1315354573540864001'>@rockey5520: Thanks for following, Mobile Appz Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 11 16:04 <a href='https://twitter.com/rockey5520/status/1315322355409997825'>@rockey5520: Back-pressure is an important feedback mechanism that allows system...</a></li>
+<li>💫 Oct 12 17:12 <a href='https://twitter.com/rockey5520/status/1315701936260288514'>rockey5520: Thanks for following, Cloud Native DevOps Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 12 16:12 <a href='https://twitter.com/rockey5520/status/1315686767048228865'>rockey5520: Thanks for following, The Belfast Gopher Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 12 14:12 <a href='https://twitter.com/rockey5520/status/1315656556084703233'>@rockey5520: Thanks for following, Mariah Rucker🦄 | #BlackLivesMatter✊🏾 Hope y...</a></li>
+<li>🔥 Oct 12 13:57 <a href='https://twitter.com/rockey5520/status/1315652709123600393'>@rockey5520: Back-pressure is an important feedback mechanism that allows system...</a></li>
+<li>💫 Oct 12 13:12 <a href='https://twitter.com/rockey5520/status/1315641465511579654'>@rockey5520: Thanks for following, Alasdair Hendry Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
