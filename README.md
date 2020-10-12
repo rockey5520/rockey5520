@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>💫 Oct 12 10:12 <a href='https://twitter.com/rockey5520/status/1315596094848598022'>@rockey5520: Thanks for following, Atomikos Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 12 09:08 <a href='https://twitter.com/rockey5520/status/1315580178949648389'>@rockey5520: I was searching about using back pressure in software development b...</a></li>
 <li>💫 Oct 11 18:15 <a href='https://twitter.com/rockey5520/status/1315355458778148864'>@rockey5520: Sorting out all links saved to read later in @Pocket and found 90% ...</a></li>
 <li>🔥 Oct 11 18:12 <a href='https://twitter.com/rockey5520/status/1315354573540864001'>@rockey5520: Thanks for following, Mobile Appz Hope you enjoy my tweets!</a></li>
 <li>💫 Oct 11 16:04 <a href='https://twitter.com/rockey5520/status/1315322355409997825'>@rockey5520: Back-pressure is an important feedback mechanism that allows system...</a></li>
-<li>🔥 Oct 10 19:14 <a href='https://twitter.com/rockey5520/status/1315007815782674432'>@rockey5520: If were to play backend engineer role and had to choose a laptop bu...</a></li>
-<li>💫 Oct 09 23:12 <a href='https://twitter.com/rockey5520/status/1314705300176371714'>@rockey5520: Thanks for following, ryan Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
