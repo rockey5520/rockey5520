@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>💫 Oct 12 22:44 <a href='https://twitter.com/rockey5520/status/1315785559625945089'>rockey5520: RT @brunoborges: 🤔😂</a></li>
+<li>🔥 Oct 12 22:41 <a href='https://twitter.com/brunoborges/status/1315784602661740546'>@brunoborges: 🤔😂</a></li>
 <li>💫 Oct 12 17:12 <a href='https://twitter.com/rockey5520/status/1315701936260288514'>rockey5520: Thanks for following, Cloud Native DevOps Hope you enjoy my tweets!</a></li>
 <li>🔥 Oct 12 16:12 <a href='https://twitter.com/rockey5520/status/1315686767048228865'>rockey5520: Thanks for following, The Belfast Gopher Hope you enjoy my tweets!</a></li>
 <li>💫 Oct 12 14:12 <a href='https://twitter.com/rockey5520/status/1315656556084703233'>@rockey5520: Thanks for following, Mariah Rucker🦄 | #BlackLivesMatter✊🏾 Hope y...</a></li>
-<li>🔥 Oct 12 13:57 <a href='https://twitter.com/rockey5520/status/1315652709123600393'>@rockey5520: Back-pressure is an important feedback mechanism that allows system...</a></li>
-<li>💫 Oct 12 13:12 <a href='https://twitter.com/rockey5520/status/1315641465511579654'>@rockey5520: Thanks for following, Alasdair Hendry Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
