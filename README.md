@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>💫 Oct 16 13:39 <a href='https://twitter.com/rockey5520/status/1317097938384977922'>rockey5520: RT @CloudNativeFdn: Have you had a look at the diversity scholarship...</a></li>
+<li>🔥 Oct 16 13:20 <a href='https://twitter.com/CloudNativeFdn/status/1317092932994977797'>@CloudNativeFdn: Have you had a look at the diversity scholarship opportunities ...</a></li>
 <li>💫 Oct 15 17:12 <a href='https://twitter.com/rockey5520/status/1316789052901916674'>rockey5520: Thanks for following, Mikey San Hope you enjoy my tweets!</a></li>
 <li>🔥 Oct 15 11:12 <a href='https://twitter.com/rockey5520/status/1316698552085745665'>@rockey5520: Thanks for following, Matthew Goldsbrough Hope you enjoy my tweets!</a></li>
 <li>💫 Oct 15 08:12 <a href='https://twitter.com/rockey5520/status/1316653096630616064'>@rockey5520: Thanks for following, Abubakar Siddiq Ango Hope you enjoy my tweets...</a></li>
-<li>🔥 Oct 14 14:46 <a href='https://twitter.com/rockey5520/status/1316389873297821697'>rockey5520: Never copy paste from stack overflow to your production without read...</a></li>
-<li>💫 Oct 14 11:49 <a href='https://twitter.com/rockey5520/status/1316345255667658758'>rockey5520: Finally @Apple designed a phone that fits well in hand #iphone12mini...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
