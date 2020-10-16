@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Every feature Java 15 came with](https://medium.com/dev-genius/every-feature-java-15-came-with-b94116373ee1?source=rss-fa274ff35bf------2)
 - [Building an RSocket based Springboot application](https://medium.com/dev-genius/building-an-rsocket-based-springboot-application-e386c84ec801?source=rss-fa274ff35bf------2)
 - [The Command Pattern in Java](https://medium.com/dev-genius/the-command-pattern-in-java-8a545a56d68a?source=rss-fa274ff35bf------2)
-- [An efficient way to compare strings in Go](https://medium.com/golang-basics/an-efficient-way-to-compare-strings-in-go-66b61844071f?source=rss-fa274ff35bf------2)
-- [8 Most used functions of strings package in Go](https://medium.com/golang-basics/8-most-used-functions-of-strings-package-in-go-9e5263739d49?source=rss-fa274ff35bf------2)
+- [An efficient way to compare strings in Go](https://medium.com/dev-genius/an-efficient-way-to-compare-strings-in-go-66b61844071f?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
