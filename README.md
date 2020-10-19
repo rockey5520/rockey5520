@@ -18,11 +18,7 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Oct 17 15:18 <a href='https://twitter.com/rockey5520/status/1317485029925228546'>@rockey5520: When you sit down next time with yourself to talk, be kind to him. ...</a></li>
-<li>🔥 Oct 16 13:39 <a href='https://twitter.com/rockey5520/status/1317097938384977922'>rockey5520: RT @CloudNativeFdn: Have you had a look at the diversity scholarship...</a></li>
-<li>💫 Oct 16 13:20 <a href='https://twitter.com/CloudNativeFdn/status/1317092932994977797'>@CloudNativeFdn: Have you had a look at the diversity scholarship opportunities ...</a></li>
-<li>🔥 Oct 15 17:12 <a href='https://twitter.com/rockey5520/status/1316789052901916674'>rockey5520: Thanks for following, Mikey San Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 15 11:12 <a href='https://twitter.com/rockey5520/status/1316698552085745665'>@rockey5520: Thanks for following, Matthew Goldsbrough Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 19 00:48 <a href='https://rss.app'>[Action required] Your RSS.app Trial has Expired - Mon Oct 19 2020</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
