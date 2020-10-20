@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [In GO, Swap two variables without using a third variable](https://medium.com/dev-genius/in-go-swap-two-variables-without-using-a-third-variable-6495f2dbfd2?source=rss-fa274ff35bf------2)
 - [Every feature Java 15 came with](https://medium.com/dev-genius/every-feature-java-15-came-with-b94116373ee1?source=rss-fa274ff35bf------2)
 - [Building an RSocket based Springboot application](https://medium.com/dev-genius/building-an-rsocket-based-springboot-application-e386c84ec801?source=rss-fa274ff35bf------2)
 - [The Command Pattern in Java](https://medium.com/dev-genius/the-command-pattern-in-java-8a545a56d68a?source=rss-fa274ff35bf------2)
-- [An efficient way to compare strings in Go](https://medium.com/dev-genius/an-efficient-way-to-compare-strings-in-go-66b61844071f?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
