@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An effective way to read environment variables in Go](https://levelup.gitconnected.com/an-effective-way-to-read-environment-variables-in-go-7454e6613ae5?source=rss-fa274ff35bf------2)
 - [Systemic approach to ace your next system design interview](https://levelup.gitconnected.com/systemic-approach-to-ace-your-next-system-design-interview-3a184b8b7c41?source=rss-fa274ff35bf------2)
 - [A RESTFul Go living in docker](https://levelup.gitconnected.com/a-restful-go-living-in-docker-14f06fdedd28?source=rss-fa274ff35bf------2)
 - [Topics and tools for acing your system design interview](https://levelup.gitconnected.com/topics-and-tools-for-acing-your-system-design-interview-ba0f0c6f5af3?source=rss-fa274ff35bf------2)
-- [In GO, Swap two variables without using a third variable](https://medium.com/dev-genius/in-go-swap-two-variables-without-using-a-third-variable-6495f2dbfd2?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
