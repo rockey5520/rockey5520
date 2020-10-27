@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You should let Junior developers review your  code](https://medium.com/dev-genius/you-should-let-junior-developers-review-your-code-7b94cb1aba65?source=rss-fa274ff35bf------2)
+- [go run vs go build vs go install](https://levelup.gitconnected.com/go-run-vs-go-build-vs-go-install-c7c0fd135cf9?source=rss-fa274ff35bf------2)
+- [Interface segregation principle in Java](https://levelup.gitconnected.com/interface-segregation-principle-in-java-44f1c1a4eacd?source=rss-fa274ff35bf------2)
 - [An effective way to read environment variables in Go](https://levelup.gitconnected.com/an-effective-way-to-read-environment-variables-in-go-7454e6613ae5?source=rss-fa274ff35bf------2)
-- [Systemic approach to ace your next system design interview](https://levelup.gitconnected.com/systemic-approach-to-ace-your-next-system-design-interview-3a184b8b7c41?source=rss-fa274ff35bf------2)
-- [A RESTFul Go living in docker](https://levelup.gitconnected.com/a-restful-go-living-in-docker-14f06fdedd28?source=rss-fa274ff35bf------2)
-- [Topics and tools for acing your system design interview](https://levelup.gitconnected.com/topics-and-tools-for-acing-your-system-design-interview-ba0f0c6f5af3?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
