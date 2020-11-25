@@ -18,7 +18,7 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 25 06:15 <a href='https://rss.app'>[Action required] Your RSS.app Trial has Expired - Wed Nov 25 2020</a></li>
+<li>💫 Nov 25 12:17 <a href='https://rss.app'>[Action required] Your RSS.app Trial has Expired - Wed Nov 25 2020</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
