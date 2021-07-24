@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">I'm primarily into system design and architecture, loves discovering computers and interacting with them without being dogmatic about a specific programming language. My main interests lies primarily with Rule Engines extending intersts towards Golang, Java, AWS and GCP</h3>
+<h3 align="center">My primary intrests are into system design and architecture, loves discovering computers and interacting with them without being dogmatic about a specific programming language. My main interests lies primarily with Rule Engines extending intersts towards Golang, Java, AWS and GCP</h3>
 
 <p align="left"> <a href="https://twitter.com/rockey5520" target="blank"><img src="https://img.shields.io/twitter/follow/rockey5520?logo=twitter&style=for-the-badge" alt="rockey5520" /></a> </p>
 
