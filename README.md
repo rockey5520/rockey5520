@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rockey5520" target="blank"><img src="https://img.shields.io/twitter/follow/rockey5520?logo=twitter&style=for-the-badge" alt="rockey5520" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Reactive programming, Distributed systems**
+- 🌱 I’m currently building a digital assistant and while expanding my learning towards building efficient system using  **Go, Reactive programming, Distributed systems**
 
-- 👨‍💻 All of my projects are available at [https://rakeshmothukuri.dev/](https://rakeshmothukuri.dev/)
+- 👨‍💻 Most of my work is available here in github and at [https://rakeshmothukuri.dev/](https://rakeshmothukuri.dev/)
 
 - 📝 I regulary write articles on [https://rakeshmothukuri.dev/](https://rakeshmothukuri.dev/)
 
