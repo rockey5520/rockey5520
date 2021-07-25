@@ -18,7 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Jul 24 18:19 <a href='https://rss.app'>[Action required] Your RSS.app Trial has Expired - Sat Jul 24 2021</a></li>
+<li>💫 Jul 11 11:15 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a66b75de100a9164d069e9ca177b1182'>@rockey5520: Thanks for following, Shubham Sharma Hope you enjoy my tweets!</a></li>
+<li>🔥 Jul 09 16:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a16f7ede110a9467d061e8c41579108b'>@rockey5520: Thanks for following, Katherine Nieman Hope you enjoy my tweets!</a></li>
+<li>💫 Jul 06 09:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a0697ed712069463dd6be4cb147b1788'>@rockey5520: Thanks for following, OnBig_Leankhuki Hope you enjoy my tweets!</a></li>
+<li>🔥 Jul 06 06:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a06874dc170a9564d16de7c71272108d'>@rockey5520: Thanks for following, Viva Leinonen Hope you enjoy my tweets!</a></li>
+<li>💫 Jul 04 17:40 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a36d79de12089260d261e8c7147f1c8e'>@rockey5520: Now I know, gopher not only inspired #golang 's creation it also in...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
