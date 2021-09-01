@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Aug 29 14:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a36375dd130c9468d56ce7cb157d1489'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
-<li>🔥 Aug 11 12:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a76e7fd6110a9262d66be1cb117d178e'>@rockey5520: Thanks for following, Gal Bashan Hope you enjoy my tweets!</a></li>
-<li>💫 Aug 06 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a16e7ed910079368dd6ee6c717781683'>@rockey5520: Thanks for following, BIT SHROOMIS Hope you enjoy my tweets!</a></li>
-<li>🔥 Aug 01 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a36d7edf16099363d06ce3c0167a1682'>@rockey5520: Thanks for following, Tejas Chaudhari Hope you enjoy my tweets!</a></li>
-<li>💫 Jul 11 11:15 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a66b75de100a9164d069e9ca177b1182'>@rockey5520: Thanks for following, Shubham Sharma Hope you enjoy my tweets!</a></li>
+<li>💫 Sep 01 14:18 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a16a7ade1c0f9668d16ae1c2147b1582'>@rockey5520: Thanks for following, John Coghlan Hope you enjoy my tweets!</a></li>
+<li>🔥 Aug 29 14:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a36375dd130c9468d56ce7cb157d1489'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 11 12:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a76e7fd6110a9262d66be1cb117d178e'>@rockey5520: Thanks for following, Gal Bashan Hope you enjoy my tweets!</a></li>
+<li>🔥 Aug 06 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a16e7ed910079368dd6ee6c717781683'>@rockey5520: Thanks for following, BIT SHROOMIS Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 01 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a36d7edf16099363d06ce3c0167a1682'>@rockey5520: Thanks for following, Tejas Chaudhari Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
