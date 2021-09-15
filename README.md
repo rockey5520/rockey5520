@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Sep 08 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a76c74d8100e9a66dd6ee0c1117c1288'>@rockey5520: Thanks for following, Carlos N. Escutia Hope you enjoy my tweets!</a></li>
-<li>🔥 Sep 02 17:03 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a16e7ada12079a63d161e4c1157c1d89'>@rockey5520: Good managers are so much rare, but I'm lucky to have @mfialik and...</a></li>
-<li>💫 Sep 01 14:18 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a16a7ade1c0f9668d16ae1c2147b1582'>@rockey5520: Thanks for following, John Coghlan Hope you enjoy my tweets!</a></li>
-<li>🔥 Aug 29 14:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a36375dd130c9468d56ce7cb157d1489'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
-<li>💫 Aug 11 12:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf1a76e7fd6110a9262d66be1cb117d178e'>@rockey5520: Thanks for following, Gal Bashan Hope you enjoy my tweets!</a></li>
+<li>💫 Sep 14 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a5627fd9170f9661d16ce2c110791d8d'>@rockey5520: Thanks for following, Nicky Wrightson Hope you enjoy my tweets!</a></li>
+<li>🔥 Sep 08 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a76c74d8100e9a66dd6ee0c1117c1288'>@rockey5520: Thanks for following, Carlos N. Escutia Hope you enjoy my tweets!</a></li>
+<li>💫 Sep 02 17:03 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a16e7ada12079a63d161e4c1157c1d89'>@rockey5520: Good managers are so much rare, but I'm lucky to have @mfialik and...</a></li>
+<li>🔥 Sep 01 14:18 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a16a7ade1c0f9668d16ae1c2147b1582'>@rockey5520: Thanks for following, John Coghlan Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 29 14:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a36375dd130c9468d56ce7cb157d1489'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
