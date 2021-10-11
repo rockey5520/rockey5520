@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Oct 07 09:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a46a79df17069066d66ae7c7157f1588'>@rockey5520: Thanks for following, Le Big Trip Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 07 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a46a7cdf15069561d36ee2c1107f168b'>@rockey5520: Thanks for following, coveredinpunk Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 05 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a76f7cde1d0e9765d46ae1c0157d128a'>@rockey5520: Thanks for following, Bojana Vukov Hope you enjoy my tweets!</a></li>
-<li>🔥 Sep 14 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a5627fd9170f9661d16ce2c110791d8d'>@rockey5520: Thanks for following, Nicky Wrightson Hope you enjoy my tweets!</a></li>
-<li>💫 Sep 08 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a76c74d8100e9a66dd6ee0c1117c1288'>@rockey5520: Thanks for following, Carlos N. Escutia Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 11 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a56978db140a9460d36de3c0107a108d'>@rockey5520: Thanks for following, Bojana Vukov Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 07 09:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a46a79df17069066d66ae7c7157f1588'>@rockey5520: Thanks for following, Le Big Trip Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 07 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a46a7cdf15069561d36ee2c1107f168b'>@rockey5520: Thanks for following, coveredinpunk Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 05 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a76f7cde1d0e9765d46ae1c0157d128a'>@rockey5520: Thanks for following, Bojana Vukov Hope you enjoy my tweets!</a></li>
+<li>💫 Sep 14 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf0a5627fd9170f9661d16ce2c110791d8d'>@rockey5520: Thanks for following, Nicky Wrightson Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
