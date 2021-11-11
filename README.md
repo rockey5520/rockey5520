@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 09 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf6a5627bdc17089069d36ae4cb14781189'>@rockey5520: Thanks for following, steven Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 07 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf6a56b78dc12069568d168e6ca1772168a'>@rockey5520: Thanks for following, Bojana Vukov Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 21 13:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf6a36b7adb170c9765d069e3c41b78138c'>@rockey5520: Thanks for following, TheSequence Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 17 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7ab6d75da14089164d46ae8ca15781d88'>@rockey5520: Thanks for following, Tech Team Weekly Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 11 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7a56978db140a9460d36de3c0107a108d'>@rockey5520: Thanks for following, Bojana Vukov Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 10 12:41 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e182db3e7c3ec8655969266d3f70cea0d6dddd66cf2a66974df170b9a63d168e7c51a'>@grafana: Happy 12th Birthday, Go! 🥳 One of our most beloved programming languag...</a></li>
+<li>🔥 Nov 09 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf6a5627bdc17089069d36ae4cb14781189'>@rockey5520: Thanks for following, steven Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 07 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf6a56b78dc12069568d168e6ca1772168a'>@rockey5520: Thanks for following, Bojana Vukov Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 21 13:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf6a36b7adb170c9765d069e3c41b78138c'>@rockey5520: Thanks for following, TheSequence Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 17 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf7ab6d75da14089164d46ae8ca15781d88'>@rockey5520: Thanks for following, Tech Team Weekly Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
