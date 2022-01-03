@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Dec 24 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4a6697ed91c0b9368dc6de2c41b79158c'>@rockey5520: Thanks for following, tholane Hope you enjoy my tweets!</a></li>
-<li>🔥 Dec 17 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4a36c7ad6100e9163d760e5c2157b108f'>@rockey5520: Thanks for following, Golang Project Structure Hope you enjoy my tw...</a></li>
-<li>💫 Dec 14 19:54 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1830bee0cce5c809918773d2f150f4086ed8d66cf7a4637bd71d0c9166d660e6c1'>@golang: 🧪 Go 1.18 Beta 1 is released!⚙️ Try it! File bugs! 📣 Announcement: 📦 Do...</a></li>
-<li>🔥 Dec 09 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf5aa6374de120c9665d661e3c717791d82'>@rockey5520: Thanks for following, Nitay Milner Hope you enjoy my tweets!</a></li>
-<li>💫 Dec 01 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf5a46b7bd7140a9368dd6de8c014721582'>@rockey5520: Thanks for following, golangprojects Hope you enjoy my tweets!</a></li>
+<li>💫 Jan 03 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4aa6a7fde15079469dc6fe5c51a721589'>@rockey5520: Thanks for following, Brian Moyer Hope you enjoy my tweets!</a></li>
+<li>🔥 Dec 24 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4a6697ed91c0b9368dc6de2c41b79158c'>@rockey5520: Thanks for following, tholane Hope you enjoy my tweets!</a></li>
+<li>💫 Dec 17 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4a36c7ad6100e9163d760e5c2157b108f'>@rockey5520: Thanks for following, Golang Project Structure Hope you enjoy my tw...</a></li>
+<li>🔥 Dec 14 19:54 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1830bee0cce5c809918773d2f150f4086ed8d66cf7a4637bd71d0c9166d660e6c1'>@golang: 🧪 Go 1.18 Beta 1 is released!⚙️ Try it! File bugs! 📣 Announcement: 📦 Do...</a></li>
+<li>💫 Dec 09 17:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf5aa6374de120c9665d661e3c717791d82'>@rockey5520: Thanks for following, Nitay Milner Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
