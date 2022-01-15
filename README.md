@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Jan 09 20:15 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e313ea6e0ceeb822a8c9528d4f61eb1492ac7df6cfba2687add14099362d46de6c21b7d1d8c'>@NataliePis: Developing a syllabus for a DevOps and Cloud 101 for undergrads cou...</a></li>
-<li>🔥 Jan 08 08:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4ab6d7fd8100c9365d16de8c6167e138d'>@rockey5520: Thanks for following, Nitay Milner Hope you enjoy my tweets!</a></li>
-<li>💫 Jan 07 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4ab6875d610079763dd6ae5c7117c128b'>@rockey5520: Thanks for following, 🚀 Molly Hope you enjoy my tweets!</a></li>
-<li>🔥 Jan 03 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4aa6a7fde15079469dc6fe5c51a721589'>@rockey5520: Thanks for following, Brian Moyer Hope you enjoy my tweets!</a></li>
-<li>💫 Dec 24 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4a6697ed91c0b9368dc6de2c41b79158c'>@rockey5520: Thanks for following, tholane Hope you enjoy my tweets!</a></li>
+<li>💫 Jan 14 17:35 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1830bee0cce5c809918773d2f150f40861dade6cf0a5637edc160c9360dd68e1c2'>@golang: “Two New Tutorials for 1.18” by @katie_hockman —</a></li>
+<li>🔥 Jan 09 20:15 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e313ea6e0ceeb822a8c9528d4f61eb1492ac7df6cfba2687add14099362d46de6c21b7d1d8c'>@NataliePis: Developing a syllabus for a DevOps and Cloud 101 for undergrads cou...</a></li>
+<li>💫 Jan 08 08:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4ab6d7fd8100c9365d16de8c6167e138d'>@rockey5520: Thanks for following, Nitay Milner Hope you enjoy my tweets!</a></li>
+<li>🔥 Jan 07 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4ab6875d610079763dd6ae5c7117c128b'>@rockey5520: Thanks for following, 🚀 Molly Hope you enjoy my tweets!</a></li>
+<li>💫 Jan 03 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf4aa6a7fde15079469dc6fe5c51a721589'>@rockey5520: Thanks for following, Brian Moyer Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
