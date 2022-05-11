@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 May 07 16:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1a0637add170d9a63d46de3ca157b108a'>@rockey5520: Thanks for following, Kurosch D. Habibi &lpar;kurosch.eth&rpar; Hope you enjo...</a></li>
-<li>🔥 May 02 21:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1a3687eda1d0f9661d46be3c2107d1d83'>@rockey5520: Thanks for following, Danilo Martins🇧🇷 Hope you enjoy my tweets!</a></li>
-<li>💫 Apr 29 02:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df2ab627bdd140c9360d561e6c51a7a138d'>@rockey5520: Thanks for following, WA State &amp; Local Hope you enjoy my tweets!</a></li>
-<li>🔥 Apr 24 12:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df2aa687ddf1d0a9560dc6be0c6177b1c83'>@rockey5520: Thanks for following, James Hornick Hope you enjoy my tweets!</a></li>
-<li>💫 Apr 23 20:21 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df2a5637bde1c069566d26ce1ca10731582'>@rockey5520: Update: a 10 hour long presentation and it can&#39;t go ahead without G...</a></li>
+<li>💫 May 09 15:26 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e353eb1eaf0ea9e098c8262d5ad0cb15d2d9d9d77f2a7687ed91c0a9b67d168e4c21a7d13893bc4'>@JackRhysider: The entire fiasco of Jurassic Park could have been avoided if the...</a></li>
+<li>🔥 May 07 16:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1a0637add170d9a63d46de3ca157b108a'>@rockey5520: Thanks for following, Kurosch D. Habibi &lpar;kurosch.eth&rpar; Hope you enjo...</a></li>
+<li>💫 May 02 21:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1a3687eda1d0f9661d46be3c2107d1d83'>@rockey5520: Thanks for following, Danilo Martins🇧🇷 Hope you enjoy my tweets!</a></li>
+<li>🔥 Apr 29 02:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df2ab627bdd140c9360d561e6c51a7a138d'>@rockey5520: Thanks for following, WA State &amp; Local Hope you enjoy my tweets!</a></li>
+<li>💫 Apr 24 12:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df2aa687ddf1d0a9560dc6be0c6177b1c83'>@rockey5520: Thanks for following, James Hornick Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
