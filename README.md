@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 May 24 09:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1ab6a7fd8170f9060d06fe1c01072138c'>@rockey5520: Thanks for following, Danilo Martins🇧🇷 Hope you enjoy my tweets!</a></li>
-<li>🔥 May 23 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1aa6d78da11069167d56de2c0157a148e'>@rockey5520: Thanks for following, Morgan Banks Hope you enjoy my tweets!</a></li>
-<li>💫 May 23 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1aa6f7fd71d0b9668d061e3c61a7a1683'>@rockey5520: Thanks for following, WA State &amp; Local Hope you enjoy my tweets!</a></li>
-<li>🔥 May 09 15:26 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e353eb1eaf0ea9e098c8262d5ad0cb15d2d9d9d77f2a7687ed91c0a9b67d168e4c21a7d13893bc4'>@JackRhysider: The entire fiasco of Jurassic Park could have been avoided if the...</a></li>
-<li>💫 May 07 16:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1a0637add170d9a63d46de3ca157b108a'>@rockey5520: Thanks for following, Kurosch D. Habibi &lpar;kurosch.eth&rpar; Hope you enjo...</a></li>
+<li>💫 May 24 21:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1ab687dd7100b9368d469e2c31779148a'>@rockey5520: Thanks for following, Shyam Khakharia Hope you enjoy my tweets!</a></li>
+<li>🔥 May 24 09:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1ab6a7fd8170f9060d06fe1c01072138c'>@rockey5520: Thanks for following, Danilo Martins🇧🇷 Hope you enjoy my tweets!</a></li>
+<li>💫 May 23 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1aa6d78da11069167d56de2c0157a148e'>@rockey5520: Thanks for following, Morgan Banks Hope you enjoy my tweets!</a></li>
+<li>🔥 May 23 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df1aa6f7fd71d0b9668d061e3c61a7a1683'>@rockey5520: Thanks for following, WA State &amp; Local Hope you enjoy my tweets!</a></li>
+<li>💫 May 09 15:26 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e353eb1eaf0ea9e098c8262d5ad0cb15d2d9d9d77f2a7687ed91c0a9b67d168e4c21a7d13893bc4'>@JackRhysider: The entire fiasco of Jurassic Park could have been avoided if the...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
