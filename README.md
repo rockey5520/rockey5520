@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Jun 10 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a7687ad7100e9660dd6ae8c116791389'>@rockey5520: Thanks for following, Eric Alper 🎧 Hope you enjoy my tweets!</a></li>
-<li>🔥 Jun 07 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a66a7cdf140b9465dd6be5c0167e1589'>@rockey5520: Thanks for following, Andrew H. Hope you enjoy my tweets!</a></li>
-<li>💫 Jun 01 18:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a06a7bdd160a9662d26fe0c4147e1d89'>@rockey5520: Thanks for following, Dax Raad Hope you enjoy my tweets!</a></li>
-<li>🔥 May 29 23:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a36a78df110a9163d76ae3c511791c8b'>@rockey5520: Thanks for following, au_stin Hope you enjoy my tweets!</a></li>
-<li>💫 May 28 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a26975d9150a9a60dc69e9c0107e1d89'>@rockey5520: Thanks for following, WA State &amp; Local Hope you enjoy my tweets!</a></li>
+<li>💫 Jul 04 13:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a16379da110b9a61d26ce4c2177f1389'>@rockey5520: Thanks for following, Jonathan Middleton Hope you enjoy my tweets!</a></li>
+<li>🔥 Jun 10 15:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a7687ad7100e9660dd6ae8c116791389'>@rockey5520: Thanks for following, Eric Alper 🎧 Hope you enjoy my tweets!</a></li>
+<li>💫 Jun 07 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a66a7cdf140b9465dd6be5c0167e1589'>@rockey5520: Thanks for following, Andrew H. Hope you enjoy my tweets!</a></li>
+<li>🔥 Jun 01 18:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a06a7bdd160a9662d26fe0c4147e1d89'>@rockey5520: Thanks for following, Dax Raad Hope you enjoy my tweets!</a></li>
+<li>💫 May 29 23:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df0a36a78df110a9163d76ae3c511791c8b'>@rockey5520: Thanks for following, au_stin Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
