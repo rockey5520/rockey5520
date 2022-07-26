@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Jul 13 18:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a56875dd10089767d16ce4c7117f1388'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
-<li>🔥 Jul 12 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a46375df130f9a61d56de0c21472108c'>@rockey5520: Thanks for following, Bernard Moon Hope you enjoy my tweets!</a></li>
-<li>💫 Jul 12 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a46378df17069b66d26fe6c6177d128e'>@rockey5520: Thanks for following, Ozan Hope you enjoy my tweets!</a></li>
-<li>🔥 Jul 12 19:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a4637eda160e9365d161e5c01a79168f'>@rockey5520: Thanks for following, WhereTruthDies Hope you enjoy my tweets!</a></li>
-<li>💫 Jul 11 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a46e78dd150b9266dc60e4ca127f1c8b'>@rockey5520: Thanks for following, Sergey Ilin | Peeranha Hope you enjoy my twee...</a></li>
+<li>💫 Jul 24 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a36b7ddd1c0d9365d661e0c614791088'>@rockey5520: Thanks for following, Transforming Your HR Technology Hope you enjo...</a></li>
+<li>🔥 Jul 13 18:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a56875dd10089767d16ce4c7117f1388'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
+<li>💫 Jul 12 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a46375df130f9a61d56de0c21472108c'>@rockey5520: Thanks for following, Bernard Moon Hope you enjoy my tweets!</a></li>
+<li>🔥 Jul 12 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a46378df17069b66d26fe6c6177d128e'>@rockey5520: Thanks for following, Ozan Hope you enjoy my tweets!</a></li>
+<li>💫 Jul 12 19:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a4637eda160e9365d161e5c01a79168f'>@rockey5520: Thanks for following, WhereTruthDies Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
