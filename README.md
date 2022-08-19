@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Aug 17 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6ab627ddf140f9a67dd60e2ca1179178f'>@rockey5520: Thanks for following, 🚀 DevTernity Conference Hope you enjoy my twe...</a></li>
-<li>🔥 Aug 09 21:14 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a56b7cdc160e9164d760e1c71a7d168f'>@rockey5520: Thanks for following, Gertrude Hope you enjoy my tweets!</a></li>
-<li>💫 Jul 31 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a1627bda1c069167dc6ce1ca1b7f138f'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
-<li>🔥 Jul 24 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a36b7ddd1c0d9365d661e0c614791088'>@rockey5520: Thanks for following, Transforming Your HR Technology Hope you enjo...</a></li>
-<li>💫 Jul 13 18:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df7a56875dd10089767d16ce4c7117f1388'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 18 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a26978d7130b9464d66de8c01b7d148b'>@rockey5520: Thanks for following, sangkilpark Hope you enjoy my tweets!</a></li>
+<li>🔥 Aug 17 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6ab627ddf140f9a67dd60e2ca1179178f'>@rockey5520: Thanks for following, 🚀 DevTernity Conference Hope you enjoy my twe...</a></li>
+<li>💫 Aug 09 21:14 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a56b7cdc160e9164d760e1c71a7d168f'>@rockey5520: Thanks for following, Gertrude Hope you enjoy my tweets!</a></li>
+<li>🔥 Jul 31 22:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a1627bda1c069167dc6ce1ca1b7f138f'>@rockey5520: Thanks for following,  Hope you enjoy my tweets!</a></li>
+<li>💫 Jul 24 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a36b7ddd1c0d9365d661e0c614791088'>@rockey5520: Thanks for following, Transforming Your HR Technology Hope you enjo...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
