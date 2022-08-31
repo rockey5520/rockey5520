@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Aug 29 21:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a6697bdf10089362d361e6c5137c1383'>@rockey5520: Thanks for following, Linda Yesso Hope you enjoy my tweets!</a></li>
-<li>🔥 Aug 25 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a06c7ed71c079a64d06be5c2127b128c'>@rockey5520: Thanks for following, Iorek Byrnison Hope you enjoy my tweets!</a></li>
-<li>💫 Aug 18 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a26978d7130b9464d66de8c01b7d148b'>@rockey5520: Thanks for following, sangkilpark Hope you enjoy my tweets!</a></li>
-<li>🔥 Aug 17 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6ab627ddf140f9a67dd60e2ca1179178f'>@rockey5520: Thanks for following, 🚀 DevTernity Conference Hope you enjoy my twe...</a></li>
-<li>💫 Aug 09 21:14 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6a56b7cdc160e9164d760e1c71a7d168f'>@rockey5520: Thanks for following, Gertrude Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 30 15:16 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a66c7edc160a9365d46ae8c310781c8d'>@rockey5520: Thanks for following, Ozan Hope you enjoy my tweets!</a></li>
+<li>🔥 Aug 29 21:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a6697bdf10089362d361e6c5137c1383'>@rockey5520: Thanks for following, Linda Yesso Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 25 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a06c7ed71c079a64d06be5c2127b128c'>@rockey5520: Thanks for following, Iorek Byrnison Hope you enjoy my tweets!</a></li>
+<li>🔥 Aug 18 20:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df5a26978d7130b9464d66de8c01b7d148b'>@rockey5520: Thanks for following, sangkilpark Hope you enjoy my tweets!</a></li>
+<li>💫 Aug 17 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df6ab627ddf140f9a67dd60e2ca1179178f'>@rockey5520: Thanks for following, 🚀 DevTernity Conference Hope you enjoy my twe...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
