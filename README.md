@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deno vs. Go](https://levelup.gitconnected.com/deno-vs-go-b483583c49ec?source=rss-fa274ff35bf------2)
 - [You should let Junior developers review your  code](https://blog.devgenius.io/you-should-let-junior-developers-review-your-code-7b94cb1aba65?source=rss-fa274ff35bf------2)
 - [go run vs go build vs go install](https://levelup.gitconnected.com/go-run-vs-go-build-vs-go-install-c7c0fd135cf9?source=rss-fa274ff35bf------2)
 - [Interface segregation principle in Java](https://levelup.gitconnected.com/interface-segregation-principle-in-java-44f1c1a4eacd?source=rss-fa274ff35bf------2)
-- [An effective way to read environment variables in Go](https://levelup.gitconnected.com/an-effective-way-to-read-environment-variables-in-go-7454e6613ae5?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
