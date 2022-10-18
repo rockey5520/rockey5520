@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Oct 16 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba36e75dd1c0d9560dc6ee2c61b7a1c8c'>@rockey5520: Thanks for following, Peggy Braget Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 13 19:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba26c7ed8100d9663d26be4c41b7b168f'>@rockey5520: Thanks for following, Christine Young Hope you enjoy my tweets!</a></li>
-<li>💫 Sep 21 09:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df4a06f7cdc130b9063d36be4c2147a1383'>@rockey5520: Thanks for following, Amir-crypto emoji stickers Hope you enjoy my...</a></li>
-<li>🔥 Sep 15 23:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df4a26f78de140d9a64d26ae9c61b72168a'>@rockey5520: Thanks for following, Jishan Shaikh Hope you enjoy my tweets!</a></li>
-<li>💫 Sep 15 07:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df4a2697dd6170f9665d16ee5c6127c148f'>@rockey5520: Thanks for following, Safiyyah Siddique Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 17 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba36274df130f9566d268e6c51079168f'>@rockey5520: Thanks for following, Rosie Scarber Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 16 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba36e75dd1c0d9560dc6ee2c61b7a1c8c'>@rockey5520: Thanks for following, Peggy Braget Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 13 19:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba26c7ed8100d9663d26be4c41b7b168f'>@rockey5520: Thanks for following, Christine Young Hope you enjoy my tweets!</a></li>
+<li>🔥 Sep 21 09:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df4a06f7cdc130b9063d36be4c2147a1383'>@rockey5520: Thanks for following, Amir-crypto emoji stickers Hope you enjoy my...</a></li>
+<li>💫 Sep 15 23:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6df4a26f78de140d9a64d26ae9c61b72168a'>@rockey5520: Thanks for following, Jishan Shaikh Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
