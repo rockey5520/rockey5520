@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Oct 23 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba66a7bdb1c099065d269e5c6117c1589'>@rockey5520: Thanks for following, Danni Deter Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 22 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba16c78d816089a63d36ee0c2117b108b'>@rockey5520: Thanks for following, Joe Priess Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 21 08:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba1697adf16099768d560e7c110781689'>@rockey5520: Thanks for following, Lou Newnham Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 20 04:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba06379d811089365dd6de6ca1279168f'>@rockey5520: Thanks for following, Leandra Falter Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 19 05:12 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba06c7ddf10069066d260e8c7107f1082'>@rockey5520: Thanks for following, Lea Assante Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 25 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba66d75d6130b9465d36de6c11373108b'>@rockey5520: Thanks for following, Skyla Luchesi Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 23 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba66a7bdb1c099065d269e5c6117c1589'>@rockey5520: Thanks for following, Danni Deter Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 22 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba16c78d816089a63d36ee0c2117b108b'>@rockey5520: Thanks for following, Joe Priess Hope you enjoy my tweets!</a></li>
+<li>🔥 Oct 21 08:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba1697adf16099768d560e7c110781689'>@rockey5520: Thanks for following, Lou Newnham Hope you enjoy my tweets!</a></li>
+<li>💫 Oct 20 04:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba06379d811089365dd6de6ca1279168f'>@rockey5520: Thanks for following, Leandra Falter Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
