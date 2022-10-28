@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
+<li>💫 Oct 27 14:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba76c7eda160a9269d46ae9c51372178c'>@rockey5520: Thanks for following, Yury Lukashevich | #LabWeek22 Hope you enjoy...</a></li>
+<li>🔥 Oct 27 12:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba76c7dda140c9761d66fe4c21b731c82'>@rockey5520: Thanks for following, Kyra Daigle Hope you enjoy my tweets!</a></li>
 <li>💫 Oct 26 15:18 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba76875d61c0c9660d76be0c610721589'>@rockey5520: Thanks for following, Susannah Rothermel Hope you enjoy my tweets!</a></li>
 <li>🔥 Oct 25 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba66d75d6130b9465d36de6c11373108b'>@rockey5520: Thanks for following, Skyla Luchesi Hope you enjoy my tweets!</a></li>
 <li>💫 Oct 23 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba66a7bdb1c099065d269e5c6117c1589'>@rockey5520: Thanks for following, Danni Deter Hope you enjoy my tweets!</a></li>
-<li>🔥 Oct 22 03:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba16c78d816089a63d36ee0c2117b108b'>@rockey5520: Thanks for following, Joe Priess Hope you enjoy my tweets!</a></li>
-<li>💫 Oct 21 08:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfba1697adf16099768d560e7c110781689'>@rockey5520: Thanks for following, Lou Newnham Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
