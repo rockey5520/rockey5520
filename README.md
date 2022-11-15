@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 13 05:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36c78d61d0b9760d46ee7c51a721589'>@rockey5520: Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 13 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36f74d6120b9261d56be2c0117a178d'>@rockey5520: Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 12 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa3697cdd12069666d16ee7c3157d148a'>@rockey5520: Thanks for following, Coral Aredondo Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 11 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa26278d612079360d46de6ca13731c82'>@rockey5520: Thanks for following, Golden boy💰 Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 08 10:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfbab637fdc110c9768d061e5c01573108a'>@rockey5520: Thanks for following, Agnes Brune Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 14 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06b7cdc14079667dc61e4c21772168b'>@rockey5520: Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 13 05:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36c78d61d0b9760d46ee7c51a721589'>@rockey5520: Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 13 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36f74d6120b9261d56be2c0117a178d'>@rockey5520: Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 12 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa3697cdd12069666d16ee7c3157d148a'>@rockey5520: Thanks for following, Coral Aredondo Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 11 00:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa26278d612079360d46de6ca13731c82'>@rockey5520: Thanks for following, Golden boy💰 Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
