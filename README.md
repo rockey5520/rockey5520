@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Using Variables in Go](https://levelup.gitconnected.com/guide-to-using-variables-in-go-7288dd34e3e9?source=rss-fa274ff35bf------2)
 - [Check if a map contains a key in Go](https://levelup.gitconnected.com/check-if-a-map-contains-a-key-in-go-70277760e0a2?source=rss-fa274ff35bf------2)
 - [Reading file line by line in Go](https://levelup.gitconnected.com/reading-file-line-by-line-in-go-9904fcb36b7c?source=rss-fa274ff35bf------2)
 - [Making HTTP Requests in Golang](https://rockey5520.medium.com/making-http-requests-in-golang-a4d8294f7618?source=rss-fa274ff35bf------2)
-- [Deno vs. Go](https://levelup.gitconnected.com/deno-vs-go-b483583c49ec?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
