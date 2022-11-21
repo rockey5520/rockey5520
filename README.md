@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Concatenate more than two slices in Go](https://levelup.gitconnected.com/how-to-concatenate-more-than-two-slices-in-go-1a9139848a1a?source=rss-fa274ff35bf------2)
 - [Guide to Using Variables in Go](https://levelup.gitconnected.com/guide-to-using-variables-in-go-7288dd34e3e9?source=rss-fa274ff35bf------2)
 - [Check if a map contains a key in Go](https://levelup.gitconnected.com/check-if-a-map-contains-a-key-in-go-70277760e0a2?source=rss-fa274ff35bf------2)
 - [Reading file line by line in Go](https://levelup.gitconnected.com/reading-file-line-by-line-in-go-9904fcb36b7c?source=rss-fa274ff35bf------2)
-- [Making HTTP Requests in Golang](https://rockey5520.medium.com/making-http-requests-in-golang-a4d8294f7618?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
