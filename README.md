@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Master backend engineering](https://levelup.gitconnected.com/master-backend-engineering-2b92904ea8ca?source=rss-fa274ff35bf------2)
 - [Making Spring Boot, Quarkus-based Lambdas 10 times faster](https://levelup.gitconnected.com/making-spring-boot-quarkus-based-lambdas-10-times-faster-876bdd06c869?source=rss-fa274ff35bf------2)
 - [How to format a Go string without printing](https://levelup.gitconnected.com/how-to-format-go-string-without-printing-d3e3d8c1fc1e?source=rss-fa274ff35bf------2)
 - [How to Concatenate more than two slices in Go](https://levelup.gitconnected.com/how-to-concatenate-more-than-two-slices-in-go-1a9139848a1a?source=rss-fa274ff35bf------2)
-- [Guide to Using Variables in Go](https://levelup.gitconnected.com/guide-to-using-variables-in-go-7288dd34e3e9?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
