@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple steps to automate WhatsApp Messages with Golang](https://levelup.gitconnected.com/simple-steps-to-automate-whatsapp-messages-with-golang-ff5244f0ae73?source=rss-fa274ff35bf------2)
-- [Master backend engineering](https://levelup.gitconnected.com/master-backend-engineering-2b92904ea8ca?source=rss-fa274ff35bf------2)
+- [Defining Structs in Go](https://levelup.gitconnected.com/defining-structs-in-go-49c17fa26196?source=rss-fa274ff35bf------2)
+- [Simple steps to automate WhatsApp Messages with Golang](https://medium.com/swlh/simple-steps-to-automate-whatsapp-messages-with-golang-ff5244f0ae73?source=rss-fa274ff35bf------2)
+- [Master backend engineering](https://medium.com/swlh/master-backend-engineering-2b92904ea8ca?source=rss-fa274ff35bf------2)
 - [Making Spring Boot, Quarkus-based Lambdas 10 times faster](https://levelup.gitconnected.com/making-spring-boot-quarkus-based-lambdas-10-times-faster-876bdd06c869?source=rss-fa274ff35bf------2)
-- [How to format a Go string without printing](https://levelup.gitconnected.com/how-to-format-go-string-without-printing-d3e3d8c1fc1e?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
