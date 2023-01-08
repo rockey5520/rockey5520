@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to handle errors in Go](https://rockey5520.medium.com/how-to-handle-errors-in-go-45b32e3b2b6?source=rss-fa274ff35bf------2)
 - [How to handle errors in Go](https://levelup.gitconnected.com/how-to-handle-errors-in-go-df459a907c2f?source=rss-fa274ff35bf------2)
 - [Defining Structs in Go](https://levelup.gitconnected.com/defining-structs-in-go-49c17fa26196?source=rss-fa274ff35bf------2)
 - [Simple Steps to Automate WhatsApp Messages with Golang](https://levelup.gitconnected.com/simple-steps-to-automate-whatsapp-messages-with-golang-ff5244f0ae73?source=rss-fa274ff35bf------2)
-- [Master backend engineering](https://levelup.gitconnected.com/master-backend-engineering-2b92904ea8ca?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
