@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to write multiline strings in GO](https://levelup.gitconnected.com/how-to-write-multiline-strings-in-go-89c49fc7a05b?source=rss-fa274ff35bf------2)
 - [How to check if a map contains a key in Go](https://levelup.gitconnected.com/how-to-check-if-a-map-contains-a-key-in-go-82f4060ac720?source=rss-fa274ff35bf------2)
 - [How to handle errors in Go](https://levelup.gitconnected.com/how-to-handle-errors-in-go-45b32e3b2b6?source=rss-fa274ff35bf------2)
 - [Creating slimmer docker images](https://levelup.gitconnected.com/creating-slimmer-docker-images-d1a381c4f28f?source=rss-fa274ff35bf------2)
-- [How to handle errors in Go](https://levelup.gitconnected.com/how-to-handle-errors-in-go-df459a907c2f?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
