@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 15 21:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06c7fd917099561d66ce1c112781782'>@rockey5520: Thanks for following, Hartley Villamarin Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 15 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06974d61c079269d76ee2c0127a1683'>@rockey5520: Thanks for following, Brooke Foulkes Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 14 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06b7cdc14079667dc61e4c21772168b'>@rockey5520: Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 13 05:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36c78d61d0b9760d46ee7c51a721589'>@rockey5520: Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 13 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36f74d6120b9261d56be2c0117a178d'>@rockey5520: Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
+<li>💫 Dec 14 19:54 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1830bee0cce5c809918773d2f150f4086ed8d66cf7a4637bd71d0c9166d660e6c1'>@golang: 🧪 Go 1.18 Beta 1 is released!⚙️ Try it! File bugs! 📣 Announcement: 📦 Do...</a></li>
+<li>🔥 Nov 12 01:20 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3ea7f3c3e08f1e909273c6b54cea4f2d899a2db0bd6b79da1c069567d260e4ca1273178b3dc46b84'>@saurabhdutta73: released new version &lpar;v2.0.0&rpar; of  Code:  #competitiveprogrammin...</a></li>
+<li>💫 Nov 10 12:41 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e182db3e7c3ec8655969266d3f70cea0d6dddd66cf2a66974df170b9a63d168e7c51a'>@grafana: Happy 12th Birthday, Go! 🥳 One of our most beloved programming languag...</a></li>
+<li>🔥 Jul 04 17:40 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf2a36d79de12089260d261e8c7147f1c8e'>@rockey5520: Now I know, gopher not only inspired #golang &#39;s creation it also in...</a></li>
+<li>💫 Jun 10 15:52 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6cf3a16a7cd8150f9a66dc6fe9c51772138b'>@rockey5520: Interesting! The reason for the application failures not only could...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
