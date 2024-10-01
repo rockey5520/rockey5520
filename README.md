@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 15 21:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06c7fd917099561d66ce1c112781782'>@rockey5520: Thanks for following, Hartley Villamarin Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 15 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06974d61c079269d76ee2c0127a1683'>@rockey5520: Thanks for following, Brooke Foulkes Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 14 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa06b7cdc14079667dc61e4c21772168b'>@rockey5520: Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 13 05:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36c78d61d0b9760d46ee7c51a721589'>@rockey5520: Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 13 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d30b1eac7fbd24fd7d628d4f61eb1492ac7df6dfaa36f74d6120b9261d56be2c0117a178d'>@rockey5520: Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 15 21:11 <a href='https://twitter.com/rockey5520/status/1592626366134030339'>@rockey5520: Thanks for following, Hartley Villamarin Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 15 06:11 <a href='https://twitter.com/rockey5520/status/1592399881926320128'>@rockey5520: Thanks for following, Brooke Foulkes Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 14 11:11 <a href='https://twitter.com/rockey5520/status/1592113085799505920'>@rockey5520: Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 13 05:11 <a href='https://twitter.com/rockey5520/status/1591659944016678912'>@rockey5520: Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 13 01:11 <a href='https://twitter.com/rockey5520/status/1591599641103323136'>@rockey5520: Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
