@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 15 21:11 <a href='https://x.com/rockey5520/status/1592626366134030339'>Thanks for following, Hartley Villamarin Hope you enjoy my tweets! https://t.co/...</a></li>
-<li>🔥 Nov 15 06:11 <a href='https://x.com/rockey5520/status/1592399881926320128'>Thanks for following, Brooke Foulkes Hope you enjoy my tweets! https://t.co/9WQQ...</a></li>
-<li>💫 Nov 14 11:11 <a href='https://x.com/rockey5520/status/1592113085799505920'>Thanks for following, Lacey Vasiliou Hope you enjoy my tweets! https://t.co/yygR...</a></li>
-<li>🔥 Nov 13 05:11 <a href='https://x.com/rockey5520/status/1591659944016678912'>Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets! https://t.co/Q0...</a></li>
-<li>💫 Nov 13 01:11 <a href='https://x.com/rockey5520/status/1591599641103323136'>Thanks for following, Sean Corbett Hope you enjoy my tweets! https://t.co/wze2te...</a></li>
+<li>💫 Nov 15 21:11 <a href='https://x.com/rockey5520/status/1592626366134030339'>Thanks for following, Hartley Villamarin Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 15 06:11 <a href='https://x.com/rockey5520/status/1592399881926320128'>Thanks for following, Brooke Foulkes Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 14 11:11 <a href='https://x.com/rockey5520/status/1592113085799505920'>Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 13 05:11 <a href='https://x.com/rockey5520/status/1591659944016678912'>Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 13 01:11 <a href='https://x.com/rockey5520/status/1591599641103323136'>Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
