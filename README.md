@@ -18,11 +18,11 @@
 #### :bird: Latest Tweets
 <ul>
 <!-- LATEST-TWEETS:START -->
-<li>💫 Nov 15 21:11 <a href='https://x.com/rockey5520/status/1592626366134030339'>Thanks for following, Hartley Villamarin Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 15 06:11 <a href='https://x.com/rockey5520/status/1592399881926320128'>Thanks for following, Brooke Foulkes Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 14 11:11 <a href='https://x.com/rockey5520/status/1592113085799505920'>Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
-<li>🔥 Nov 13 05:11 <a href='https://x.com/rockey5520/status/1591659944016678912'>Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
-<li>💫 Nov 13 01:11 <a href='https://x.com/rockey5520/status/1591599641103323136'>Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 15 21:11 <a href='https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a784081515384a6ae0b18df1931b91937488b34afc0e6fdad86bf5a46b7edb140c9363d661'>Thanks for following, Hartley Villamarin Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 15 06:11 <a href='https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a784081515384a6ae0b18df1931b91937488b34afc0e6ad1d760fba3637fd9170d9361d760'>Thanks for following, Brooke Foulkes Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 14 11:11 <a href='https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a784081515384a6ae0b18df1931b91937488b34afc0e68d9dd68fba76d74d6110f9669d768'>Thanks for following, Lacey Vasiliou Hope you enjoy my tweets!</a></li>
+<li>🔥 Nov 13 05:11 <a href='https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a784081515384a6ae0b18df1931b91937488b34afc0d6fddd761f7a66a7cd912089b69d46a'>Thanks for following, Liza Hollenbaugh Hope you enjoy my tweets!</a></li>
+<li>💫 Nov 13 01:11 <a href='https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299a784081515384a6ae0b18df1931b91937488b34afc0d6cd1d76ef7a36b7ddc170d9061d66e'>Thanks for following, Sean Corbett Hope you enjoy my tweets!</a></li>
 
 <!-- LATEST-TWEETS:END -->
 </ul>
