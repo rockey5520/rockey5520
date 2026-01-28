@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Coding to Directing: How My Engineering Work Changed](https://rockey5520.medium.com/from-coding-to-directing-how-my-engineering-work-changed-4e263d0feeef?source=rss-fa274ff35bf------2)
 - [Why Agent Work Must Be Disposable](https://rockey5520.medium.com/why-agent-work-must-be-disposable-987df03c0e67?source=rss-fa274ff35bf------2)
 - [Spec-Driven Development: Build the Intent First, Then the Code](https://rockey5520.medium.com/spec-driven-development-build-the-intent-first-then-the-code-6f60d0d408a8?source=rss-fa274ff35bf------2)
 - [Turning the Terminal into a Fire-Breathing Synth](https://rockey5520.medium.com/turning-the-terminal-into-a-fire-breathing-synth-c20003f8f7d8?source=rss-fa274ff35bf------2)
-- [Mastering the Power of Go’s Range Statement](https://levelup.gitconnected.com/mastering-the-power-of-gos-range-statement-db339c734222?source=rss-fa274ff35bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
